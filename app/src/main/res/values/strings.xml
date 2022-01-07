@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lim_MyFirstApp</string>
+    <string name="maintext">Nigahi akong kuan!</string>
+    <string name="toptext">I Miss You</string>
 </resources>
